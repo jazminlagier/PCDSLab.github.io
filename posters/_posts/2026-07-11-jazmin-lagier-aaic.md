@@ -6,8 +6,8 @@ authors: "Jazmin Lagier; Fahad Saeed"
 year: "2026"
 conference: "AAIC-2026"
 image: /assets/images/posters/AAIC_2026_poster.png
-projects: ["AD-GNN"]
-tags: [ML-ADRD]
+projects: ["ML-ADRD"]
+tags: 
 
 # Content
 # fulltext: https://alz.confex.com/alz/2024/meetingapp.cgi/Paper/89944
